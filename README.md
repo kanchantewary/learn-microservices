@@ -24,6 +24,6 @@ https://medium.com/adobetech/three-principles-of-api-first-design-fa6666d9f694
 
 https://swagger.io/docs/specification/about/
 
-### and writing a YAML file
+#### and writing a YAML file. An Open API Specification file can be written either in JSON or YAML. YAML is preferred since it is far more easy to write and read than JSON
 
 https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-1-introduction/
