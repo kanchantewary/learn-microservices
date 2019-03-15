@@ -23,3 +23,7 @@ https://medium.com/adobetech/three-principles-of-api-first-design-fa6666d9f694
 ### learn something about API documentation, using swagger
 
 https://swagger.io/docs/specification/about/
+
+### and writing a YAML file
+
+https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-1-introduction/
