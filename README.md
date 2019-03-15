@@ -16,7 +16,31 @@ source work1/bin/activate
 
 sudo pip3 install -r requirements.txt
 
-### take a step back, learn the principles of API design first
+### learn some basics
+
+#12-factor to develop a microservice
+https://www.12factor.net/
+
+#12-factor summary:
+
+    Stored in a single codebase, tracked in a version control system: one codebase, many deployments
+    Has explicitly declared and isolated external dependencies
+    Has deployment-specific configuration stored in environment variables, and not in the code
+    Treats backing services (for example, data stores, message queues, and so on) as attached or replaceable resources
+    Built in distinct stages (build, release, run) with strict separation among them (no knock-on effects or cycles)
+    Runs as one or more stateless processes that share nothing, and assumes process memory is transient
+    Is completely self-contained and provides a service endpoint on well-defined (environment determined) host and port
+    Managed and scaled through process instances (horizontal scaling)
+    Disposable with minimal startup, graceful shutdown, and toleration for abrupt process termination
+    Designed for continuous development and deployment with minimal difference between the app in development and the app in production
+    Treats logs as event streams: the outer or hosting environment deals with processing and routing log files
+    Keeps one-off admin scripts with the app to ensure the admin scripts run with the same environment as the app itself
+
+https://martinfowler.com/articles/microservices.html
+
+https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
+
+### principles of API design
 
 https://medium.com/adobetech/three-principles-of-api-first-design-fa6666d9f694
 
