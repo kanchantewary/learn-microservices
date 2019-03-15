@@ -22,4 +22,4 @@ https://medium.com/adobetech/three-principles-of-api-first-design-fa6666d9f694
 
 ### learn something about API documentation, using swagger
 
-https://swagger.io/
+https://swagger.io/docs/specification/about/
