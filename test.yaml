@@ -1,0 +1,15 @@
+#test yaml file for API documentation
+
+swagger: "2.0"
+
+info:
+        version: 1.0.0
+        title: simple API
+        description: A simple API to learn how to write openAPI speification
+
+schemes:
+        -https
+host: simple.api
+basepath: /openapi101
+
+paths: {}
