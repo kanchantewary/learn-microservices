@@ -19,3 +19,7 @@ sudo pip3 install -r requirements.txt
 ### take a step back, learn the principles of API design first
 
 https://medium.com/adobetech/three-principles-of-api-first-design-fa6666d9f694
+
+### learn something about API documentation, using swagger
+
+https://swagger.io/
