@@ -64,3 +64,7 @@ https://runnable.com/docker/python/dockerize-your-flask-application
 https://www.sumologic.com/blog/devops/kubernetes-vs-docker/
 https://kubernetes.io/docs/reference/kubectl/overview/
 https://console.bluemix.net/docs/tutorials/scalable-webapp-kubernetes.html
+
+#### learn about the concept of call back function
+
+https://stackoverflow.com/questions/824234/what-is-a-callback-function
