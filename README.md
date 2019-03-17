@@ -66,6 +66,7 @@ https://www.sumologic.com/blog/devops/kubernetes-vs-docker/
 https://kubernetes.io/docs/reference/kubectl/overview/
 https://console.bluemix.net/docs/tutorials/scalable-webapp-kubernetes.html
 
-#### learn about the concept of call back function
+#### some python concepts which we would need
 
+https://realpython.com/primer-on-python-decorators/
 https://stackoverflow.com/questions/824234/what-is-a-callback-function
