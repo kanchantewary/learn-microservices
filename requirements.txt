@@ -3,3 +3,5 @@ connexion
 Flask-injector
 fastavro
 injector==0.12.0
+requests
+python-dotenv

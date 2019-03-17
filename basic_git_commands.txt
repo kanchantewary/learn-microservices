@@ -1,0 +1,25 @@
+#clone a repository, move to the desired path and then run
+git clone <url>
+
+#create a .gitignore file, add __pycache__ and any virtual environment directory to it
+
+#use markdown to write your readme file
+
+#make changes, and add
+git add -A
+
+#check status
+git status
+
+#revert the added changes
+git reset HEAD
+
+#commit the changes
+git commit -m 'my change log goes here'
+
+#push changes into master branch
+git push origin master
+
+#if master and local version does not match, above step would give error, do following first
+git pull origin master
+
