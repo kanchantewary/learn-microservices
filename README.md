@@ -52,3 +52,6 @@ https://connexion.readthedocs.io/en/latest/
 #### and writing a YAML file. An Open API Specification file can be written either in JSON or YAML. YAML is preferred since it is far more easy to write and read than JSON
 
 https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-1-introduction/
+
+### Tutorial on API using python:
+https://realpython.com/api-integration-in-python/
