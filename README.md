@@ -56,6 +56,7 @@ https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-1-int
 ### Tutorial on API using python:
 https://realpython.com/api-integration-in-python/
 https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
+https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask
 
 ### Learn about docker and kubernetes
 https://djangostars.com/blog/what-is-docker-and-how-to-use-it-with-python/
