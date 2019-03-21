@@ -62,6 +62,10 @@ https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-fla
 
 https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask
 
+### create API in loopback (node.js)
+
+https://medium.freecodecamp.org/build-restful-api-with-authentication-under-5-minutes-using-loopback-by-expressjs-no-programming-31231b8472ca
+
 ### Learn about docker and kubernetes
 https://djangostars.com/blog/what-is-docker-and-how-to-use-it-with-python/
 https://runnable.com/docker/python/dockerize-your-python-application
