@@ -65,7 +65,13 @@ https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask
 ### create API with loopback (node.js)
 
 https://medium.freecodecamp.org/build-restful-api-with-authentication-under-5-minutes-using-loopback-by-expressjs-no-programming-31231b8472ca
+
 https://loopback.io/
+
+https://www.npmjs.com/package/loopback 
+
+https://v4.loopback.io/getting-started.html 
+
 https://developer.ibm.com/tutorials/create-rest-apis-minutes-with-loopback-4/
 
 ### Learn about docker and kubernetes
