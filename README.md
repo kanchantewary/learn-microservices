@@ -53,6 +53,10 @@ https://connexion.readthedocs.io/en/latest/
 
 https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-1-introduction/
 
+### An assessment of top API frameworks
+
+https://optimalbi.com/blog/2016/07/21/whats-the-best-restful-web-api-framework-part-2/
+
 ### Tutorial on API using python:
 https://realpython.com/api-integration-in-python/
 
