@@ -90,3 +90,6 @@ https://console.bluemix.net/docs/tutorials/scalable-webapp-kubernetes.html
 
 https://realpython.com/primer-on-python-decorators/
 https://stackoverflow.com/questions/824234/what-is-a-callback-function
+
+### basics of docker, kubernetes and deployment in cloud
+https://github.com/IBM/container-service-getting-started-wt
