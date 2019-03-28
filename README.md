@@ -93,3 +93,9 @@ https://stackoverflow.com/questions/824234/what-is-a-callback-function
 
 ### basics of docker, kubernetes and deployment in cloud
 https://github.com/IBM/container-service-getting-started-wt
+
+### microservice and kafka
+
+https://github.com/ewolff/microservice-kafka
+https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/
+https://devcenter.heroku.com/articles/event-driven-microservices-with-apache-kafka
