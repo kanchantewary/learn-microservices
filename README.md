@@ -99,3 +99,9 @@ https://github.com/IBM/container-service-getting-started-wt
 https://github.com/ewolff/microservice-kafka
 https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/
 https://devcenter.heroku.com/articles/event-driven-microservices-with-apache-kafka
+
+### Work with IBM S3 storage
+
+https://cloud.ibm.com/docs/services/cloud-object-storage?topic=cloud-object-storage-for-developers#for-developers
+https://cloud.ibm.com/docs/infrastructure/cloud-object-storage-infrastructure?topic=cloud-object-storage-infrastructure-using-python#using-python
+https://cloud.ibm.com/docs/services/cloud-object-storage/libraries?topic=cloud-object-storage-using-python#using-python
